@@ -39,6 +39,12 @@ jupyter-notebook
 ```sh
 jupyter lab
 ```
+
+Install the required packages:
+
+```sh
+pip install -r requirements.txt
+```
 <br>
 
 ###  Visual studio code + Windows Terminal (Connect with WSL)
@@ -52,3 +58,21 @@ jupyter lab
 - Download Windows Terminal: https://docs.microsoft.com/en-us/windows/terminal/
 
 ***
+### Quick view
+
+The notebook can be seen through the URL links:
+
+|    Description                      |                                                                  Link                         | 
+|:------------------------------|:-------------------------------------------------------------------------------------------------------|
+| *nbviewer* in static form:                    |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_01.ipynb)                           |
+| *binder* in dynamic form:                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/HEAD?labpath=Exercise_week_01.ipynb) 
+
+
+**NOTE**
+
+We cannot use the public _mybinder.org_ and  _nbviewer.org_ instances with a private repository
+
+---
+
+
+### Summary and Conclusion
