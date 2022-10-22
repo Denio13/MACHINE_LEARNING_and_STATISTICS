@@ -68,9 +68,7 @@ The notebook can be seen through the URL links:
 | *binder* in dynamic form:                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/HEAD?labpath=Exercise_week_01.ipynb) 
 
 
-**NOTE**
-
-We cannot use the public _mybinder.org_ and  _nbviewer.org_ instances with a private repository
+> **_NOTE:_** We cannot use the public _mybinder.org_ and  _nbviewer.org_ instances with a private repository
 
 ---
 
