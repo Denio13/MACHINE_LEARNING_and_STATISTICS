@@ -4,34 +4,40 @@
 </div>
 
 ***
-## My Setup
+
+_This repository contains the 'MACHINE LEARNING AND STATISTICS' module project and exercises. The **README** describes step by step what software was used and how to launch the project._
+
+
+<div align="center">
+<center><h2>Used SetUp</h2></center>
+</div>
 
 ###  Windows Subsystem for Linux (WSL) terminal
 
-Download from Microsoft Store - Ubuntu 20.04 LTS.
+- Download from Microsoft Store - Ubuntu 20.04 LTS.
 
 
 ### Jupyter Notebook in Windows Subsystem for Linux|WSL
 
-Installing Jupyter Notebook
+- Installing Jupyter Notebook
 
 ```sh
 pip3 install jupyter
 ```
 
-Open your bash configuration
+- Open your bash configuration
 
 ```sh
 vim ~/.bashrc
 ```
 
-Add to the end of the file and save/exit
+- Add to the end of the file and save/exit
 
 ```sh
 alias jupyter-notebook="~/.local/bin/jupyter-notebook --no-browser"
 ```
 
-Run a jupyter server
+- Run a jupyter server
 
 ```sh
 jupyter-notebook
@@ -40,7 +46,7 @@ jupyter-notebook
 jupyter lab
 ```
 
-Install the required packages:
+- Install the required packages:
 
 ```sh
 pip install -r requirements.txt
@@ -71,6 +77,23 @@ The notebook can be seen through the URL links:
 > **_NOTE:_** We cannot use the public _mybinder.org_ and  _nbviewer.org_ instances with a private repository
 
 ---
+
+<div align="center">
+<center><h2>Exercises</h2></center>
+</div>
+
+Exercise 1:
+- [The lady tasting tea experiment](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_01.ipynb)
+
+Exercise 2:
+- [Models](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_02.ipynb)
+---
+
+
+
+<div align="center">
+<center><h1>Project</h1></center>
+</div>
 
 
 ### Summary and Conclusion
