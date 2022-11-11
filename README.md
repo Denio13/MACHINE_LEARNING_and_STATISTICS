@@ -82,11 +82,14 @@ The notebook can be seen through the URL links:
 <center><h2>Exercises</h2></center>
 </div>
 
-Exercise 1:
+Topic I:
 - [The lady tasting tea experiment](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_01.ipynb)
 
-Exercise 2:
+Topic II:
 - [Models](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_02.ipynb)
+
+Topic III:
+- [Parameters](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_02.ipynb)
 ---
 
 
