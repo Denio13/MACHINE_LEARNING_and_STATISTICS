@@ -89,7 +89,7 @@ Topic II:
 - [Models](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_02.ipynb)
 
 Topic III:
-- [Parameters](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_02.ipynb)
+- [Parameters](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_07.ipynb)
 ---
 
 
