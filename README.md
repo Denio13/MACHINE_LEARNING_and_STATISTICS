@@ -9,7 +9,7 @@ _This repository contains the 'MACHINE LEARNING AND STATISTICS' module project a
 
 
 <div align="center">
-<center><h2>Used SetUp</h2></center>
+<center><h2>SetUp</h2></center>
 </div>
 
 ###  Windows Subsystem for Linux (WSL) terminal
@@ -70,8 +70,8 @@ The notebook can be seen through the URL links:
 
 |    Description                      |                                                                  Link                         | 
 |:------------------------------|:-------------------------------------------------------------------------------------------------------|
-| *nbviewer* in static form:                    |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_01.ipynb)                           |
-| *binder* in dynamic form:                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/HEAD?labpath=Exercise_week_01.ipynb) 
+| *nbviewer* in static form:                    |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Denio13/MACHINE_LEARNING_and_STATISTICS/tree/main/)                           |
+| *binder* in dynamic form:                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Denio13/MACHINE_LEARNING_and_STATISTICS/HEAD) 
 
 
 > **_NOTE:_** We cannot use the public _mybinder.org_ and  _nbviewer.org_ instances with a private repository
