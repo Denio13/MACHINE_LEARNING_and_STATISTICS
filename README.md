@@ -1,4 +1,10 @@
 
+<br>
+
+<center><img src="Img/Machine-Learning.jpeg"></center>
+
+<br>
+
 <div align="center">
 <center><h1>MACHINE LEARNING AND STATISTICS</h1></center>
 </div>
@@ -66,7 +72,7 @@ pip install -r requirements.txt
 ***
 ### Quick view
 
-The notebook can be seen through the URL links:
+The Jupyter notebook can be seen through the URL links:
 
 |    Description                      |                                                                  Link                         | 
 |:------------------------------|:-------------------------------------------------------------------------------------------------------|
@@ -82,6 +88,8 @@ The notebook can be seen through the URL links:
 <center><h2>Exercises</h2></center>
 </div>
 
+In this *Exercises* folder, all the topics that we have covered in this ML and Statistics module. 
+
 Topic I:
 - [The lady tasting tea experiment](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_01.ipynb)
 
@@ -90,6 +98,9 @@ Topic II:
 
 Topic III:
 - [Parameters](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_07.ipynb)
+
+Topic IV:
+- [Machine Learning](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Exercises/Exercise_week_09.ipynb)
 ---
 
 
@@ -97,6 +108,18 @@ Topic III:
 <div align="center">
 <center><h1>Project</h1></center>
 </div>
+<br>
 
+<center><img src="Img/keras.png"></center>
+
+<br>
+
+The Jupyter notebook [Project_anomaly-detection](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Project_anomaly-detection.ipynb) contains the final project of the Machine Learning and Statistics module.
+In this project, I have to recreate the **Timeseries anomaly detection** example from the [keras site](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) in my Jupyter notebook, explaining all the concepts.
+
+<br>
 
 ### Summary and Conclusion
+
+Learning the ML and Statistics module, and especially working on practical exercises, gave me the knowledge of how to describe the stochastic nature of real-world measurements, choose an appropriate mathematical model of a real-world problem, and also choose an appropriate cost function for a given machine learning
+task and apply optimization methods to the model parameters.
