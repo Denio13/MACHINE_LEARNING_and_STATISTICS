@@ -117,6 +117,13 @@ Topic IV:
 The Jupyter notebook [Project_anomaly-detection](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Project_anomaly-detection.ipynb) contains the final project of the Machine Learning and Statistics module.
 In this project, I have to recreate the **Timeseries anomaly detection** example from the [keras site](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) in my Jupyter notebook, explaining all the concepts.
 
+
+### Support
+You can ask questions and join the development discussion:
+
+- In the [TensorFlow forum](https://discuss.tensorflow.org/).
+- On the [Keras Google group](https://groups.google.com/g/keras-users).
+
 <br>
 
 ### Summary and Conclusion
