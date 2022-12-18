@@ -13,9 +13,18 @@
 
 _This repository contains the 'MACHINE LEARNING AND STATISTICS' module project and exercises. The **README** describes step by step what software was used and how to launch the project._
 
+#### The repository contains the following files:
+
+|    File                       |      Description                                                                                       | 
+|:------------------------------|:-------------------------------------------------------------------------------------------------------|
+| [Exercises](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/tree/main/Exercises)                    |  The file contains all the exercises of the module.                             |
+| [Img](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/tree/main/Img)                   |   The file contains all the images that are used in this repository                                                                           |
+[Project_anomaly-detection.ipynb](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Project_anomaly-detection.ipynb)                 |   Jupyter Notebook contains module Keras project                                                                       |
+| [requirements.txt](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/requirements.txt)             |   List of necessary packages                                                                           |
+|   |
 
 <div align="center">
-<center><h2>SetUp</h2></center>
+<center><h2>Installation and Set Up</h2></center>
 </div>
 
 ###  Windows Subsystem for Linux (WSL) terminal
