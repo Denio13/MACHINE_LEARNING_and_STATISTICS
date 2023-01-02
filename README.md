@@ -124,7 +124,7 @@ Topic IV:
 <br>
 
 The Jupyter notebook [Project_anomaly-detection](https://github.com/Denio13/MACHINE_LEARNING_and_STATISTICS/blob/main/Project_anomaly-detection.ipynb) contains the final project of the Machine Learning and Statistics module.
-In this project, I have to recreate the **Timeseries anomaly detection** example from the [keras site](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) in my Jupyter notebook, explaining all the concepts.
+In this project, I have to recreate the **Timeseries anomaly detection using an Autoencoder** example from the [keras site](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) in my Jupyter notebook, explaining all the concepts, and each Keras function used, with reference to the documentation.
 
 
 ### Support
@@ -135,7 +135,14 @@ You can ask questions and join the development discussion:
 
 <br>
 
+
 ### Summary and Conclusion
 
 Learning the ML and Statistics module, and especially working on practical exercises, gave me the knowledge of how to describe the stochastic nature of real-world measurements, choose an appropriate mathematical model of a real-world problem, and also choose an appropriate cost function for a given machine learning
 task and apply optimization methods to the model parameters.
+
+<br>
+
+<h3><i>“Artificial Intelligence, deep learning, machine learning — whatever you’re doing if you don’t understand it — learn it. Because otherwise you’re going to be a dinosaur within 3 years.”</i></h3>
+
+<div style="text-align: right"><i><b>Mark Cuban</b></i></div>
